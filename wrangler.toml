@@ -1,4 +1,4 @@
-name = "TempMail.cc"
+name = "vmail"
 main = "worker/src/index.ts"
 
 # 打包配置
