@@ -27,6 +27,7 @@ export function Footer() {
           title="Github"
           className="text-gray-400 hover:text-gray-500">
           <GitHub />
+        </a>
       </div>
     </div>
   );
