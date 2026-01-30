@@ -7,7 +7,7 @@ import MailIcon from "./icons/MailIcon.tsx";
 export function Footer() {
   return (
     <div className="text-white w-full mt-auto flex flex-col items-center justify-between px-5 pt-16 mb-10 md:px-10 mx-auto sm:flex-row">
-      <p className="mt-4 text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0">
+      <p className="mt-4 text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-gray-200 sm:mt-0">
         © 2026 TempMail.cc
       </p>
       <div className="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
