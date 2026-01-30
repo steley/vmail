@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { VmailLogo } from './icons/vmail.tsx';
 import { useTranslation } from "react-i18next";
+import GithubPlat from "./icons/GitHubPlat.tsx";
 import { useState } from 'react';
 import { InfoModal } from './InfoModal.tsx';
 import { About } from '../pages/About.tsx';
