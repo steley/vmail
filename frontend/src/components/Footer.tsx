@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import MailIcon from "./icons/MailIcon.tsx";
+import GitHub from "./icons/GitHub.tsx";
+
 
 /**
  * 网站的页脚组件
@@ -18,6 +20,13 @@ export function Footer() {
           className="text-gray-400 hover:text-gray-500">
           <MailIcon className="w-6 h-6" />
         </a>
+        <a
+          href="https://github.com/oiov/vmail"
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Github"
+          className="text-gray-400 hover:text-gray-500">
+          <GitHub />
       </div>
     </div>
   );
