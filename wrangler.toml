@@ -17,7 +17,7 @@ migrations_dir = "worker/drizzle"
 
 # 定义环境变量和密钥
 [vars]
-EMAIL_DOMAIN = "${EMAIL_DOMAIN}"
+EMAIL_DOMAIN = "tempmail.cc"
 TURNSTILE_KEY = "${TURNSTILE_KEY}"
 COOKIES_SECRET = "${COOKIES_SECRET}"
 TURNSTILE_SECRET = "${TURNSTILE_SECRET}"
