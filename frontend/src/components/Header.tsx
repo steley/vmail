@@ -20,7 +20,7 @@ export function Header() {
         <Link to="/" className="font-bold flex items-center justify-center gap-3">
           <VmailLogo />
           <button className="cool-btn">
-            <span>VMAIL.DEV</span>
+            <span>TempMail.cc</span>
           </button>
         </Link>
         <nav className="flex items-center">
