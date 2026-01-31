@@ -15,7 +15,7 @@ export function Footer() {
       <div className="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
         {/* 社交媒体和联系方式链接 */}
         <a
-          href="mailto:hi@httpsmail.com"
+          href="mailto:hello@tempmail.cc"
           title="Email"
           className="text-gray-400 hover:text-gray-500">
           <MailIcon className="w-6 h-6" />
